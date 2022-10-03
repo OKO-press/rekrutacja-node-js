@@ -1,7 +1,7 @@
 # Zadanie 1
 Celem zadania jest napisanie funkcji w jezyku Node.js wraz z pełnym typowaniem Typescript.
 
-**Input**: Funkcja będzie otrzymywała Datę reprezentowaną za pomocą typu wbudowanego `Date` oraz status transakcji przekazany za pomocą typu `bool`.
+**Input**: Funkcja otrzymuje Datę reprezentowaną za pomocą typu wbudowanego `Date` oraz status transakcji przekazany za pomocą typu `bool`.
 
 **Output**: Funkcja zwraca nową datę reprezentującą datę w przyszłości.
 
