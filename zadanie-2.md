@@ -6,7 +6,7 @@ Utworzyć w aplikacji z zadania 2 nowy route pozwalający na paginowany odczyt p
 
 ## Kryteria oceny zadania
 
-- Prawidłowe wydrożenie frameworku routing-controllers
+- Prawidłowe wdrożenie frameworku routing-controllers
 - Validacja danch przychodzących
 - Zapis do pliku oraz obsługa błędów z nim związancyh
 
